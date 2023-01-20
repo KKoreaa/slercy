@@ -1,6 +1,6 @@
 ;(function(){
 
-    var msg = "syn#0011";
+    var msg = "slercy";
     
     // Set font's style size for calculating dimensions
     // Set to number of desired pixels font size (decimal and negative numbers not allowed)
